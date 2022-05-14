@@ -1,0 +1,15 @@
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\bin\Debug\net6.0\RockPaperScissorsBot.exe
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\bin\Debug\net6.0\RockPaperScissorsBot.deps.json
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\bin\Debug\net6.0\RockPaperScissorsBot.runtimeconfig.json
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\bin\Debug\net6.0\RockPaperScissorsBot.dll
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\bin\Debug\net6.0\RockPaperScissorsBot.pdb
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.csproj.AssemblyReference.cache
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.AssemblyInfoInputs.cache
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.AssemblyInfo.cs
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.csproj.CoreCompileInputs.cache
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.dll
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\refint\RockPaperScissorsBot.dll
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.pdb
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\RockPaperScissorsBot.genruntimeconfig.cache
+C:\Users\glaas\Repositories\Web\RockPaperScissorsBot\obj\Debug\net6.0\ref\RockPaperScissorsBot.dll
