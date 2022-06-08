@@ -1,2 +1,2 @@
-# RockPaperScissorsBot
-A bot better than you at RPS
+# FFIX Bot 
+This is just a repository containing the screenshots displayed by [FF9EveryDay](https://twitter.com/EverydayFF9/)
